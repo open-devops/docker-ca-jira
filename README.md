@@ -1,4 +1,6 @@
-# docker-ca-jira
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?maxAge=2592000)](https://hub.docker.com/r/devopsopen/docker-ca-jira/)
+
+# Requirement Management - Jira 
 Jira Image for Open DevOps Pipeline
 
 #docker pull
